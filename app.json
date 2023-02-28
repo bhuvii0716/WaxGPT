@@ -18,11 +18,5 @@
     "API_HASH": {
       "description": "App api_hash from https://my.telegram.org"
     },
-    "PHONE_NUMBER": {
-      "description": "Enter PHONE Number"
-    },
-    "SESSION_STRING": {
-      "description": "Session string from https://docs.pyrogram.org/api/methods/export_session_string#pyrogram.Client.export_session_string"
-    }
   }
 }
