@@ -17,6 +17,6 @@
     },
     "API_HASH": {
       "description": "App api_hash from https://my.telegram.org"
-    },
+    }
   }
 }
