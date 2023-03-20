@@ -47,7 +47,7 @@ async def chatgpt(bot, msg):
         return
 
     if is_mem:
-        prompt = msg.text.replace("/ask", "")
+        prompt = msg.text.replace("/ask ", "")
         await bot.send_chat_action(msg.chat.id, enums.ChatAction.TYPING)
 
         completion = openai.Completion.create(
