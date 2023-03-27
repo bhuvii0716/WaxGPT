@@ -1,2 +1,2 @@
-while True:
-    print("gay")
+for i in range(2000):
+    print(i)
