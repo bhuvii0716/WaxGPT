@@ -12,7 +12,7 @@
     }
   },
   "env": {
-    "API_ID": {
+    "BOT_TOKEN": {
       "description": "App api_id from https://my.telegram.org"
     },
     "API_HASH": {
